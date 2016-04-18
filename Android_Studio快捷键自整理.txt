@@ -1,0 +1,62 @@
+ctrl+B      查看方法被使用
+
+F8              debug模式跳入下一个
+
+alt+F7      查看方法被引用选择界面版
+
+ctrl+w      逐步选择 从小到大
+
+ctrl+-/+    折叠/展开代码
+
+crl+shift+-/+ 展开、折叠所有代码
+
+alt+上/下   方法间快速移动
+
+crl+c        复制/两次复制行
+
+crl+y        删除行
+
+ctrl+f4      关闭当前文件
+
+crl+N       查找类
+
+crl+shift+N  查找文件
+
+alt+shift+上/下  内容向下/上
+
+crl+shift+上/下  语句向下/上
+
+crtl+f12   查看该类中的方法与eclipse  crtl+o一样
+
+crtl+alt+f  局部变量变成全局变量
+
+crt+B       进入方法声明
+
+crt+alt+B       进入方法实现
+
+crt+alt+L      格式化代码   
+
+ctr+shift+空格   提示等于eclipse alter+/
+
+ctr+alt+空格   提示更多
+
+alt+回车        自动修复
+
+ctr+alt+o       智能导包
+
+ctr+D           复制到下一行
+
+shift+F6        重命名
+
+alt+F7           查看在哪被引用
+
+crl+z          后退
+
+crl+shift+z    前进
+
+crl+shift_f    全局查找字符等于 crl+H
+
+在eclip中前进  crl+y
+
+.var           补全前面声明
+.cast          强转
