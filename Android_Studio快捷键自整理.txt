@@ -62,4 +62,8 @@ crl+shift_f    全局查找字符等于 crl+H
 
 .cast          强转  
 
+.field        可以声明前面的类型
+
+alt+上/下     快速切换到下一方法或类
+
 SystemClock.sleep(100);不需要try catch
