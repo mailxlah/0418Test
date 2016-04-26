@@ -66,6 +66,6 @@ crl+shift_f    全局查找字符等于 crl+H
 
 alt+上/下     快速切换到下一方法或类
 
-F3            文本内查找下一个选中的字段
+F3            文本内查找下一个选中的字段(先Alt+J)
 
 SystemClock.sleep(100);不需要try catch
