@@ -69,3 +69,5 @@ alt+上/下     快速切换到下一方法或类
 Ctrl+F3            文本内查找下一个选中的字段(先Alt+J)
 
 SystemClock.sleep(100);不需要try catch
+
+详细见             http://www.androidchina.net/2143.html
