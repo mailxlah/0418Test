@@ -70,4 +70,12 @@ Ctrl+F3            文本内查找下一个选中的字段(先Alt+J)
 
 SystemClock.sleep(100);不需要try catch
 
+Ctrl+Alt+T           surround with try catch 等
+
+在导航栏查看code    代码的相关复写tostring构造等
+
+alt+insert            generate生成构造方法tostring等
+
+Ctrl+O              override 复写方法
+
 详细见             http://www.androidchina.net/2143.html
