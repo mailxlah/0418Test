@@ -78,4 +78,6 @@ alt+insert            generate生成构造方法tostring等
 
 Ctrl+O              override 复写方法
 
+Ctrl+H              查看类的层级和ADT中的ctrl+t类似
+
 详细见             http://www.androidchina.net/2143.html
