@@ -28,7 +28,7 @@ crl+shift+上/下  语句向下/上
 
 crtl+f12   查看该类中的方法与eclipse  crtl+o一样
 
-crtl+alt+f  局部变量变成全局变量
+crtl+alt+f  局部变量变成全局变量(成员变量变为局部变量alt+enter)
 
 crt+B       进入方法声明
 
