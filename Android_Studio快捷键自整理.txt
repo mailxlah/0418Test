@@ -80,4 +80,8 @@ Ctrl+O              override 复写方法
 
 Ctrl+H              查看类的层级父类子类和ADT中的ctrl+t类似
 
+Shift+Enter         光标下一行
+
+Ctrl+Alt+Enter      光标上一行
+
 详细见             http://www.androidchina.net/2143.html
