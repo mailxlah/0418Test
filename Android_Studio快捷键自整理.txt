@@ -84,4 +84,6 @@ Shift+Enter         光标下一行
 
 Ctrl+Alt+Enter      光标上一行
 
+Ctrl+Q               提示，显示方法信息
+
 详细见             http://www.androidchina.net/2143.html
