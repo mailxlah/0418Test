@@ -86,4 +86,6 @@ Ctrl+Alt+Enter      光标上一行
 
 Ctrl+Q               提示，显示方法信息
 
+Ctrl+R 替换文本
+
 详细见             http://www.androidchina.net/2143.html
