@@ -58,7 +58,7 @@ crl+shift_f    全局查找字符等于 crl+H
 
 在eclip中前进  crl+y
 
-.var           补全前面声明  （之后shift+tab切换声明类型）
+.var(或ctr+alt+v)           补全前面声明  （之后shift+tab切换声明类型）
 
 .cast          强转  
 
