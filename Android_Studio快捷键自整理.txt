@@ -96,5 +96,5 @@ Ctrl+Tab            试图面板切换
 
 详细见             http://www.androidchina.net/2143.html
 
-Alt+shift+l       快速返回局部变量
+Alt+shift+l       eclipse中快速返回局部变量
 
