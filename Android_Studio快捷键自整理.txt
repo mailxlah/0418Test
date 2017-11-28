@@ -88,4 +88,8 @@ Ctrl+Q               提示，显示方法信息
 
 Ctrl+R 替换文本
 
+Alt+Insert          新建类
+
+F2                  自动移动到有错的代码，再Alt+Insert修复错误
+
 详细见             http://www.androidchina.net/2143.html
