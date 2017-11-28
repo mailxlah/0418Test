@@ -92,4 +92,9 @@ Alt+Insert          新建类
 
 F2                  自动移动到有错的代码，再Alt+Insert修复错误
 
+Ctrl+Tab            试图面板切换
+
 详细见             http://www.androidchina.net/2143.html
+
+Alt+shift+l       快速返回局部变量
+
