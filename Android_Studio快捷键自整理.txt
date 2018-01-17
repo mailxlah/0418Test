@@ -98,3 +98,5 @@ Ctrl+Tab            试图面板切换
 
 Alt+shift+l       eclipse中快速返回局部变量
 
+ctrl+insert       复制当前行
+
